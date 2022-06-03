@@ -1,4 +1,4 @@
-## Hey there <img src="https://raw.githubusercontent.com/aemmadi/aemmadi/master/wave.gif" width="30px">, I'm Vitor Martins 
+## Hey there, I'm Vitor Martins 
 
 
 I'm a Frontend Developer based in Lisbon.
